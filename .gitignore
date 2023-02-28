@@ -1,3 +1,7 @@
 node_modules
-doc-site
-.dumi
+/dist
+.dumi/tmp
+.dumi/tmp-test
+.dumi/tmp-production
+.DS_Store
+
